@@ -1,0 +1,45 @@
+#logo3{
+    display:inline-block;
+    float:left;
+    border: 10%;
+    border-color: darkcyan;
+}
+#logo3.1{
+    display: inline-block;
+    float:left;
+}
+#tituloini{
+    color:darkslategray;
+    display: inline-block;
+    width: 100%;
+    text-align:inherit;
+}
+#logo4{
+    display: inline-block;
+    width: 15px;
+}
+#ppag{
+    text-align: center;
+    font-size: 18px;
+    border-color:cornsilk;
+}
+#marcoinicio{
+    display: inline-block;
+    float:left;
+    padding: 4px;
+    margin: 4px;
+    width: 48%;
+    border: groove;
+    text-align:left;
+    left: -20%;
+    position: absolute;
+}
+#ya{
+    text-align: center;
+    color:blueviolet;
+    
+}
+iframe{
+    position: absolute;
+    top: 100%;
+}

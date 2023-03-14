@@ -1,0 +1,24 @@
+html{
+    
+}
+
+
+#titulocap { 
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+    color:cadetblue;
+}
+#logocap{
+     display: inline-block;
+    float:left;
+
+}
+#p1 {
+    text-align:justify;
+    text-justify: inherit;
+}
+#graduados{
+    float: right;
+    width: 50%;
+}

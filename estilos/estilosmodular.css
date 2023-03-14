@@ -1,0 +1,19 @@
+#modular{
+float: right;
+}
+#titulo{
+    text-align: center;
+    color:blueviolet;
+}
+#parrafo{
+    text-align: justify;
+    color: black;
+}
+#conoce{
+    text-align: center;
+    color:blue;
+}
+#ventaja{
+    text-align: center;
+    color:blue;
+}

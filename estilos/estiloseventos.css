@@ -1,0 +1,25 @@
+#titulo{
+    text-align: center;
+    font-size: 24px;
+    color:cadetblue;
+}
+ul{
+    display: inline-block;
+    float: left;
+    width: 12%;
+    font-size: 20px;
+    color: darkmagenta;
+}
+figure{
+    display: inline-block;
+    width: 20%;
+    height: 10%;
+
+}
+img{
+    position: sta};
+  
+    border: 2px #08C38D;
+    margin: 90%;
+    border-style:double;
+}

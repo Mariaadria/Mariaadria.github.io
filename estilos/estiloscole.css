@@ -1,0 +1,18 @@
+#logo3{
+    display:inline-block;
+    float:left;
+    border: 10%;
+    border-color: darkcyan;
+}
+    
+#titulocole{
+    color: blue;
+    display: inline-block;
+    width: %;
+    text-align:center;
+}
+#tituloinsta{
+    font-family: cursive;
+    text-align: center;
+    color:blueviolet;
+}
